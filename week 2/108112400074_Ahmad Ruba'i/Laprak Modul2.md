@@ -1,4 +1,4 @@
-# <h1 align="center">Laporan Praktikum Modul 2 -Pengenalan Bahas C++ (Bagian kedua)</h1>
+# <h1 align="center">Laporan Praktikum Modul 2 -Pengenalan Bahasa C++ (Bagian kedua)</h1>
 <p align="center">Ahmad Ruba'i - 103112400074</p>
 
 ## Dasar Teori
@@ -258,13 +258,10 @@ int main() {
 ### Output Unguided 1 :
 
 ##### Output 1
-![Screenshot Output Unguided 1_1](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
-
-contoh :
-![Screenshot Output Unguided 1_1](https://github.com/DhimazHafizh/2311102151_Muhammad-Dhimas-Hafizh-Fathurrahman/blob/main/Pertemuan1_Modul1/Output-Unguided1-1.png)
+![output unguided1_1.png](https://github.com/ahmadrubai/103112400074_Ahmad-Ruba-i/blob/main/week%202/108112400074_Ahmad%20Ruba'i/output%20unguided1_1.png)
 
 ##### Output 2
-![Screenshot Output Unguided 1_2](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+![output unguided1_2.png](https://github.com/ahmadrubai/103112400074_Ahmad-Ruba-i/blob/main/week%202/108112400074_Ahmad%20Ruba'i/output%20unguided1_2.png)
 
 Program di atas adalah program operasi matriks dua dimensi berukuran 3x3. Program ini di gunakan untuk melakukan operasi penjumlahan, pengurangan, dan perkalian matriks 3x3. Program akan meminta pengguna untuk memilih menu yang ada (kalau menu yang dipilih tidak ada program akan menampilkan teks "pilihan tidak valid"), kemudian program akan menghitung hasilnya dan program akan menampilkan matriks hasilnya.
 
@@ -310,13 +307,8 @@ int main() {
 ### Output Unguided 2 :
 
 ##### Output 1
-![Screenshot Output Unguided 2_1](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+![output unguided2.png](https://github.com/ahmadrubai/103112400074_Ahmad-Ruba-i/blob/main/week%202/108112400074_Ahmad%20Ruba'i/Output%20Unguided%202.png)
 
-contoh :
-![Screenshot Output Unguided 2_1](https://github.com/DhimazHafizh/2311102151_Muhammad-Dhimas-Hafizh-Fathurrahman/blob/main/Pertemuan1_Modul1/Output-Unguided2-1.png)
-
-##### Output 2
-![Screenshot Output Unguided 2_2](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
 
 Program ini digunakan untuk menghitung luas dan keliling persegi panjang menggunakan pointer. program akan mengakses pointer untuk mengambil variabel panjang dan lebar. Kemudian program akan menghitung dan menampilkan hasil luas dan keliling berdasarkan nilai awal, kemudian mengubah nilai variabel melalui pointer dan menampilkan hasil perhitungan baru setelah perubahan tersebut.
 
