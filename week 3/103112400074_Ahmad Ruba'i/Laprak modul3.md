@@ -168,7 +168,7 @@ int main() {
 ### Output Unguided 1 :
 
 ##### Output 1
-![Output Unguided 1](https://github.com/ahmadrubai/103112400074_Ahmad-Ruba-i/blob/main/week%203/103112400074_Ahmad%20Ruba'i/Output%20Unguided%201.pngg)
+![Output Unguided 1](https://github.com/ahmadrubai/103112400074_Ahmad-Ruba-i/blob/main/week%203/103112400074_Ahmad%20Ruba'i/Output%20Unguided%201.png)
 
 Program digunakan untuk menghitung dan menampilkan nilai akhir mahasiswa. Data mahasiswa akan disimpan dalam struktur yang berisi nama, NIM, nilai UTS, UAS, tugas, dan nilai akhir. Program akan meminta pengguna untuk memasukkan data setiap mahasiswa, kemudian program akan menghitung nilai akhirnya menggunakan rumus 30% UTS, 40% UAS, dan 30% tugas. Setelah semua data selesai diinput, program menampilkan hasil berupa daftar mahasiswa dan nilai akhir masing-masing mahasiswa.
 
