@@ -168,13 +168,7 @@ int main() {
 ### Output Unguided 1 :
 
 ##### Output 1
-![Screenshot Output Unguided 1_1](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
-
-contoh :
-![Screenshot Output Unguided 1_1](https://github.com/DhimazHafizh/2311102151_Muhammad-Dhimas-Hafizh-Fathurrahman/blob/main/Pertemuan1_Modul1/Output-Unguided1-1.png)
-
-##### Output 2
-![Screenshot Output Unguided 1_2](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+![Output Unguided 1](https://github.com/ahmadrubai/103112400074_Ahmad-Ruba-i/blob/main/week%203/103112400074_Ahmad%20Ruba'i/Output%20Unguided%201.pngg)
 
 Program digunakan untuk menghitung dan menampilkan nilai akhir mahasiswa. Data mahasiswa akan disimpan dalam struktur yang berisi nama, NIM, nilai UTS, UAS, tugas, dan nilai akhir. Program akan meminta pengguna untuk memasukkan data setiap mahasiswa, kemudian program akan menghitung nilai akhirnya menggunakan rumus 30% UTS, 40% UAS, dan 30% tugas. Setelah semua data selesai diinput, program menampilkan hasil berupa daftar mahasiswa dan nilai akhir masing-masing mahasiswa.
 
@@ -231,13 +225,7 @@ int main() {
 ### Output Unguided 2 :
 
 ##### Output 1
-![Screenshot Output Unguided 2_1](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
-
-contoh :
-![Screenshot Output Unguided 2_1](https://github.com/DhimazHafizh/2311102151_Muhammad-Dhimas-Hafizh-Fathurrahman/blob/main/Pertemuan1_Modul1/Output-Unguided2-1.png)
-
-##### Output 2
-![Screenshot Output Unguided 2_2](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+![Output Unguided 2](https://github.com/ahmadrubai/103112400074_Ahmad-Ruba-i/blob/main/week%203/103112400074_Ahmad%20Ruba'i/Output%20Unguided%202.png)
 
 Program ini digunakan untuk membuat dan menampilkan data pelajaran menggunakan struktur dan fungsi dalam bahasa C++. Data pelajaran terdiri dari nama dan kode pelajaran. Fungsi create_pelajaran() digunakan untuk membuat data baru dan tampil_pelajaran() digunakan untuk menampilkan hasilnya. Pada fungsi main(), program membuat satu pelajaran dengan nama “Struktur Data” dan kode “STD”, kemudian menampilkan informasi tersebut.
 
@@ -303,13 +291,8 @@ int main() {
 ### Output Unguided 3 :
 
 ##### Output 1
-![Screenshot Output Unguided 3_1](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+![Output Unguided 3](https://github.com/ahmadrubai/103112400074_Ahmad-Ruba-i/blob/main/week%203/103112400074_Ahmad%20Ruba'i/Output%20Unguided%203.png)
 
-contoh :
-![Screenshot Output Unguided 3_1](https://github.com/DhimazHafizh/2311102151_Muhammad-Dhimas-Hafizh-Fathurrahman/blob/main/Pertemuan1_Modul1/Output-Unguided3-1.png)
-
-##### Output 2
-![Screenshot Output Unguided 3_2](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
 
 Program ini digunakan untuk menukar nilai elemen tertentu antara dua array dua dimensi berukuran 3x3. Kedua array, yaitu A dan B, masing-masing berisi kumpulan angka yang berbeda. Program akan menampilkan isi kedua array sebelum dan sesudah pertukaran dilakukan. Proses pertukaran nilai dilakukan melalui fungsi tukarNilai() yang menggunakan pointer untuk menukar isi dua variabel, sedangkan fungsi tukarArray() menentukan posisi elemen yang akan ditukar berdasarkan indeks baris dan kolom yang ditentukan pengguna.
 
