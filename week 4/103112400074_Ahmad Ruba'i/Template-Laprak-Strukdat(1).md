@@ -9,17 +9,6 @@ Salah satu keunggulan utama linked list adalah kemampuannya untuk mengatasi peru
 1. Singly linked list
 struktur data di mana setiap elemen (node) memiliki dua bagian: data yang disimpan dan referensi ke node berikutnya dalam urutan. Node terakhir memiliki nilai NULL sebagai referensi akhir. Operasi seperti penambahan dan penghapusan bisa cepat di awal (head), tetapi lambat di akhir (tail).
 
-### A. ...<br/>
-...
-#### 1. ...
-#### 2. ...
-#### 3. ...
-
-### B. ...<br/>
-...
-#### 1. ...
-#### 2. ...
-#### 3. ...
 
 ## Guided 
 
@@ -559,13 +548,7 @@ int main() {
 ### Output Unguided 1 :
 
 ##### Output 1
-![Screenshot Output Unguided 1_1](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
-
-contoh :
-![Screenshot Output Unguided 1_1](https://github.com/DhimazHafizh/2311102151_Muhammad-Dhimas-Hafizh-Fathurrahman/blob/main/Pertemuan1_Modul1/Output-Unguided1-1.png)
-
-##### Output 2
-![Screenshot Output Unguided 1_2](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+![Output Unguided 1](https://github.com/ahmadrubai/103112400074_Ahmad-Ruba-i/blob/main/week%204/103112400074_Ahmad%20Ruba'i/Output%20Unguided%201.png)
 
 Program ini adalah contoh implementasi Single Linked List dalam  bahasa C++, yang membagi tugas ke dalam tiga file. File header SINGLYLIST_H berfungsi sebagai cetak biru, mendefinisikan struktur dasar list (seperti Elmlist dan List) dan mendeklarasikan semua fungsi yang dapat diakses publik. File implementasi singlylist.cpp berisi definisi aktual dari fungsi-fungsi dasar list seperti membuat list kosong, mengalokasikan node, menambahkan node di awal (insertFirst), dan mencetak isi list (printInfo). Terakhir, file main.cpp bertindak sebagai program pengujian, di mana sebuah list diinisialisasi, lima elemen dengan nilai 9, 12, 8, 0, dan 2 dimasukkan secara berurutan ke bagian depan list, menghasilkan urutan akhir 9 -> 12 -> 8 -> 0 -> 2, yang kemudian dicetak menjadi output.
 
@@ -757,18 +740,12 @@ int main() {
 ### Output Unguided 2 :
 
 ##### Output 1
-![Screenshot Output Unguided 2_1](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
-
-contoh :
-![Screenshot Output Unguided 2_1](https://github.com/DhimazHafizh/2311102151_Muhammad-Dhimas-Hafizh-Fathurrahman/blob/main/Pertemuan1_Modul1/Output-Unguided2-1.png)
-
-##### Output 2
-![Screenshot Output Unguided 2_2](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+![Output Unguided 2](https://github.com/ahmadrubai/103112400074_Ahmad-Ruba-i/blob/main/week%204/103112400074_Ahmad%20Ruba'i/Output%20Unguided%202.png)
 
 Program ini adalah implementasi Single Linked List dalam C++ untuk menyimpan dan memanipulasi serangkaian bilangan bulat. Setelah membuat list kosong, program menyisipkan lima elemen (9, 12, 8, 0, 2) sehingga urutan list menjadi 9 -> 12 -> 8 -> 0 -> 2. Selanjutnya, ada operasi untuk modifikasi: menghapus elemen pertama (9), menghapus elemen terakhir (2), dan menghapus elemen setelah 12 (yaitu 8). Setelah semua operasi ini, list tersisa hanya 12 -> 0. Program kemudian mencetak urutan list tersebut, menunjukkan bahwa total ada 2 node yang tersisa, sebelum akhirnya menghapus seluruh struktur list tersebut hingga kosong.
 
 ## Kesimpulan
-...
+dari modul ini saya bisa mengetahui cara menghapus node dan membuat node kosong
 
 ## Referensi
 [1] https://terapan-ti.vokasi.unesa.ac.id/post/memahami-konsep-dan-jenis-jenis-linked-list-dalam-struktur-data#:~:text=Node%20pertama%20dalam%20linked%20list,dan%20node%20terakhir%20disebut%20tail. 
