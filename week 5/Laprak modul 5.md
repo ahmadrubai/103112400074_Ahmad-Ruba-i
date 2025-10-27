@@ -439,7 +439,7 @@ Kedua program C++ ini mengilustrasikan perbedaan antara pencarian linier dan bin
 
 ## Unguided 
 
-### 1. linear
+### 1. binary
 
 ```C++
 #include <iostream>
@@ -594,7 +594,7 @@ int main() {
 
 Program ini menunjukkan bagaimana Pencarian Biner dilakukan pada Linked List yang sudah berurutan. Ini adalah cara yang jauh lebih cepat daripada Pencarian Linier. Program menggunakan getMiddle untuk melompat langsung ke tengah list. Dengan membandingkan nilai, program langsung membuang separuh list yang tidak mungkin berisi angka yang dicari. Proses pemotongan separuh list ini diulang terus-menerus hingga angka ditemukan.
 
-### 2. binary
+### 2.linear
 
 ```C++ #include <iostream>
 
