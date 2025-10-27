@@ -16,7 +16,7 @@ Algoritma pencarian jenis ini digunakan untuk menemukan posisi nilai tertentu ya
 
 ## Guided 
 
-### 1. ...
+### 1. bauh
 
 ```C++ listBuah.h
 #ifndef LISTBUAH_H
@@ -439,7 +439,7 @@ Kedua program C++ ini mengilustrasikan perbedaan antara pencarian linier dan bin
 
 ## Unguided 
 
-### 1. (isi dengan soal unguided 1)
+### 1. linear
 
 ```C++
 #include <iostream>
@@ -589,11 +589,12 @@ int main() {
 ### Output Unguided 1 :
 
 ##### Output 1
-![Screenshot Output Unguided 1](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+![Screenshot Output Unguided 1](https://github.com/ahmadrubai/103112400074_Ahmad-Ruba-i/blob/main/week%205/Output%20Unguided%201.png
+)
 
 Program ini menunjukkan bagaimana Pencarian Biner dilakukan pada Linked List yang sudah berurutan. Ini adalah cara yang jauh lebih cepat daripada Pencarian Linier. Program menggunakan getMiddle untuk melompat langsung ke tengah list. Dengan membandingkan nilai, program langsung membuang separuh list yang tidak mungkin berisi angka yang dicari. Proses pemotongan separuh list ini diulang terus-menerus hingga angka ditemukan.
 
-### 2. (isi dengan soal unguided 2)
+### 2. binary
 
 ```C++ #include <iostream>
 
@@ -708,7 +709,8 @@ int main() {
 ### Output Unguided 2 :
 
 ##### Output 1
-![Screenshot Output Unguided 2](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+![Screenshot Output Unguided 2](https://github.com/ahmadrubai/103112400074_Ahmad-Ruba-i/blob/main/week%205/Output%20Unguided%202.png
+)
 
 Ini adalah program yang menunjukkan Linear Search pada Linked List. List dibuat, dan kemudian nilai dicari dengan mengecek semua elemen secara berurutan dari node pertama hingga node terakhir. Program ini berfungsi untuk memvisualisasikan proses pencarian satu per satu di dalam struktur data yang terhubung.
 
