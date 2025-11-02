@@ -692,7 +692,7 @@ int main() {
 ### Output Unguided 1 :
 
 ##### Output 1
-![Screenshot Output Unguided 1_1](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+![Output Unguided 1](https://github.com/ahmadrubai/103112400074_Ahmad-Ruba-i/blob/main/week%206/103112400074_Ahmad%20Ruba'i/Output%20Unguided%201.png)
 
 Program ini meminta pengguna unutk memasukkan empat data kendaraan. Setiap data akan dicek nomor polisinya; jika nomor itu baru, data akan disimpan. Jika nomornya sama dengan yang sudah ada, data itu akan diabaikan. Setelah selesai, program akan mencetak semua data yang berhasil disimpan, secara terbalik (dari yang terakhir Anda masukkan).
 
@@ -885,11 +885,11 @@ int main() {
 ### Output Unguided 2 :
 
 ##### Output 1
-![Screenshot Output Unguided 2_1](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+![Output Unguided 2](https://github.com/ahmadrubai/103112400074_Ahmad-Ruba-i/blob/main/week%206/103112400074_Ahmad%20Ruba'i/Output%20Unguided%202.png)
 
 Program ini adalah program pencarian data. Pertama, program secara otomatis membuat daftar berisi tiga data kendaraan. Setelah itu, program akan meminta pengguna memasukan satu nomor polisi. Program akan mencari nomor itu di dalam daftar yang sudah dibuat. Jika ketemu, ia akan menampilkan info kendaraan itu; jika tidak, program akan mencetak datanya tidak ada.
 
-### 3. (isi dengan soal unguided 3)
+### 3. Unguided 3
 
 ```C++ Doublylist.h
 #ifndef DOUBLYLIST_H
@@ -1067,7 +1067,7 @@ int main() {
 ### Output Unguided 3 :
 
 ##### Output 1
-![Screenshot Output Unguided 3_1](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+![Output Unguided 3](https://github.com/ahmadrubai/103112400074_Ahmad-Ruba-i/blob/main/week%206/103112400074_Ahmad%20Ruba'i/Output%20Unguided%203.png)
 
 Program ini adalah sistem sederhana untuk mengelola daftar data kendaraan menggunakan struktur data doubly linked list. Program utama (main.cpp) pertama-tama akan membuat sebuah daftar kosong, lalu menambahkan tiga data kendaraan ke dalam daftar tersebut. Setelah itu, program akan meminta pengguna untuk memasukkan nomor polisi dari kendaraan yang ingin dihapus. Program kemudian akan mencari data tersebut di dalam daftar dan menghapusnya. Terakhir, program akan mencetak sisa data kendaraan yang masih ada di dalam daftar.
 
