@@ -476,7 +476,7 @@ int main()
 ### Output Unguided 1 :
 
 ##### Output 1
-![Screenshot Output Unguided 1_1](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+![Screenshot Output Unguided 1](https://github.com/ahmadrubai/103112400074_Ahmad-Ruba-i/blob/main/Week%209/103112400074_Ahmad%20Ruba'i/Output%20Unguided%201.png)
 
 Program ini membuat dan mengelola sebuah stack yang menyimpan bilangan bulat menggunakan array. Program menyediakan operasi dasar stack seperti push, pop, mengecek apakah stack kosong atau penuh, menampilkan isi stack, dan membalik urutan elemen dengan fungsi balikStack. Pada main, beberapa data dimasukkan dan dihapus dari stack menggunakan push dan pop sesuai urutan. Setelah itu, isi stack ditampilkan, kemudian dibalik dan ditampilkan kembali.
 
@@ -619,7 +619,7 @@ int main()
 ### Output Unguided 2 :
 
 ##### Output 1
-![Screenshot Output Unguided 2_1](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+![Screenshot Output Unguided 2](https://github.com/ahmadrubai/103112400074_Ahmad-Ruba-i/blob/main/Week%209/103112400074_Ahmad%20Ruba'i/Output%20Unguided%202.png)
 
 Program ini membuat sebuah stack yang menampung bilangan bulat dan menyediakan beberapa operasi seperti menambah data (push), mengambil data (pop), menampilkan isi stack, membalik urutan, dan menambah data secara urut naik melalui fungsi pushAscending. Saat program dijalankan, beberapa angka dimasukkan ke stack menggunakan aturan ascending sehingga stack otomatis tersusun dari kecil ke besar. Setelah itu, isi stack ditampilkan, kemudian dibalik menggunakan balikStack, dan hasilnya ditampilkan lagi. Program ini menunjukkan cara kerja stack dan bagaimana data bisa disimpan secara terurut dengan memanfaatkan operasi push dan pop.
 
@@ -749,7 +749,7 @@ int main()
 ### Output Unguided 3 :
 
 ##### Output 1
-![Screenshot Output Unguided 3_1](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+![Screenshot Output Unguided 3](https://github.com/ahmadrubai/103112400074_Ahmad-Ruba-i/blob/main/Week%209/103112400074_Ahmad%20Ruba'i/Output%20Unguided%203.png)
 
 Program ini adalah implementasi sederhana dari struktur data stack menggunakan bahasa C++. Stack disimpan dalam array berukuran tetap dengan pointer top sebagai penanda elemen teratas. Pengguna dapat memasukkan rangkaian karakter melalui getInputStream, yang kemudian disimpan ke dalam stack secara berurutan. Program juga menyediakan fungsi untuk menampilkan isi stack serta membalik urutan karakter di dalamnya melalui balikStack. Saat dijalankan, program membaca input, menampilkan isi stack, membaliknya, lalu menampilkan hasil yang sudah terbalik.
 
