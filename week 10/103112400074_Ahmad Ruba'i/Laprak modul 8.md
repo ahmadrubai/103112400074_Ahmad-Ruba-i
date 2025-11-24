@@ -482,13 +482,7 @@ int main() {
 ### Output Unguided 1 :
 
 ##### Output 1
-![Screenshot Output Unguided 1_1](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
-
-contoh :
-![Screenshot Output Unguided 1_1](https://github.com/DhimazHafizh/2311102151_Muhammad-Dhimas-Hafizh-Fathurrahman/blob/main/Pertemuan1_Modul1/Output-Unguided1-1.png)
-
-##### Output 2
-![Screenshot Output Unguided 1_2](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+![Screenshot Output Unguided 1](https://github.com/ahmadrubai/103112400074_Ahmad-Ruba-i/blob/main/week%2010/103112400074_Ahmad%20Ruba'i/Output%20Unguided%201.png)
 
 Program ini membuat simulasi queue menggunakan bahasa C++. Cara kerjanya seperti antrean di kasir: jika orang paling depan keluar, semua orang di belakangnya harus maju satu langkah ke depan. Karena itu, posisi paling depan (Head) akan selalu tetap di indeks 0, sementara ujung belakang antrean (Tail) akan berubah-ubah.
 
@@ -615,13 +609,7 @@ int main() {
 ### Output Unguided 2 :
 
 ##### Output 1
-![Screenshot Output Unguided 2_1](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
-
-contoh :
-![Screenshot Output Unguided 2_1](https://github.com/DhimazHafizh/2311102151_Muhammad-Dhimas-Hafizh-Fathurrahman/blob/main/Pertemuan1_Modul1/Output-Unguided2-1.png)
-
-##### Output 2
-![Screenshot Output Unguided 2_2](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+![Screenshot Output Unguided 2](https://github.com/ahmadrubai/103112400074_Ahmad-Ruba-i/blob/main/week%2010/103112400074_Ahmad%20Ruba'i/Output%20Unguided%202.png)
 
 Program ini mengimplementasikan queue menggunakan Array di mana indeks Head dan Tail sama-sama bergerak ke kanan (bertambah). Saat operasi dequeue dilakukan, data tidak digeser, melainkan indeks Head dimajukan satu langkah (head++). Ini membuat proses pengambilan data lebih cepat (efisien) karena tidak ada proses perulangan (looping) untuk menggeser elemen array, namun memiliki kelemahan yaitu ruang array di bagian depan (sebelum Head) tidak bisa digunakan kembali sampai antrean benar-benar kosong dan di-reset.
 
@@ -751,13 +739,7 @@ int main() {
 ### Output Unguided 3 :
 
 ##### Output 1
-![Screenshot Output Unguided 3_1](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
-
-contoh :
-![Screenshot Output Unguided 3_1](https://github.com/DhimazHafizh/2311102151_Muhammad-Dhimas-Hafizh-Fathurrahman/blob/main/Pertemuan1_Modul1/Output-Unguided3-1.png)
-
-##### Output 2
-![Screenshot Output Unguided 3_2](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+![Screenshot Output Unguided 3](https://github.com/ahmadrubai/103112400074_Ahmad-Ruba-i/blob/main/week%2010/103112400074_Ahmad%20Ruba'i/Output%20Unguided%203.png)
 
 Program ini menerapkan mekanisme Circular Queue. Metode ini menghubungkan ujung belakang array (indeks terakhir) kembali ke ujung depan (indeks 0). Hal ini memungkinkan kita memanfaatkan ruang kosong di awal array yang ditinggalkan oleh data yang sudah di-dequeue. Dengan menggunakan operasi modulo (%), indeks Head dan Tail akan "berputar" kembali ke 0 setelah mencapai batas maksimum array, sehingga penggunaan memori menjadi jauh lebih efisien tanpa perlu menggeser data
 
