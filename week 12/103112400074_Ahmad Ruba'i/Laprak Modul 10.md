@@ -678,7 +678,7 @@ int main() {
 ### Output Unguided 1 :
 
 ##### Output 1
-![Screenshot Output Unguided 1_1](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+![Screenshot Output Unguided 1](https://github.com/ahmadrubai/103112400074_Ahmad-Ruba-i/blob/main/week%2012/103112400074_Ahmad%20Ruba'i/Output%20Unguided%201.png)
 
 Program ini merupakan implementasi dasar dari struktur data Binary Search Tree (BST) menggunakan bahasa C++. Program berfokus pada pembentukan struktur pohon melalui fungsi penyisipan (insertNode) yang menyusun data secara otomatis berdasarkan nilainya (lebih kecil ke kiri, lebih besar ke kanan), serta menyediakan fungsi pencarian (findNode). Hasil akhir data ditampilkan secara terurut dari terkecil ke terbesar menggunakan metode penelusuran InOrder.
 
@@ -820,7 +820,7 @@ int main() {
 ### Output Unguided 2 :
 
 ##### Output 1
-![Screenshot Output Unguided 2_1](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+![Screenshot Output Unguided 2](https://github.com/ahmadrubai/103112400074_Ahmad-Ruba-i/blob/main/week%2012/103112400074_Ahmad%20Ruba'i/Output%20Unguided%202.png)
 
 Program ini adalah implementasi struktur data Binary Search Tree (BST) dalam bahasa C++ yang dirancang untuk mengelola data bilangan bulat. Program tidak hanya menyusun dan menampilkan angka secara terurut (InOrder), tetapi juga dilengkapi dengan fitur komputasi rekursif untuk menganalisis tree. Fitur analisis tersebut meliputi penghitungan kedalaman atau level maksimum pohon (hitungKedalaman), perhitungan jumlah total node yang tersimpan (hitungJumlahNode), serta penjumlahan total dari seluruh nilai angka yang ada di dalam tree (hitungTotalInfo).
 
@@ -921,7 +921,7 @@ int main() {
 ### Output Unguided 3 :
 
 ##### Output 1
-![Screenshot Output Unguided 3_1](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+![Screenshot Output Unguided 3](https://github.com/ahmadrubai/103112400074_Ahmad-Ruba-i/blob/main/week%2012/103112400074_Ahmad%20Ruba'i/Output%20Unguided%203.png)
 
 
 Program ini diguanakan untuk menyusun sekumpulan angka ke dalam struktur Binary Search Tree (BST) dan menampilkannya kembali menggunakan dua metode penelusuran yang berbeda. Setelah data dimasukkan ke dalam tree, program menggunakan fungsi Pre-Order untuk mencetak data mulai dari node induk (root) ke anak-anaknya, dan fungsi Post-Order untuk mencetak data mulai dari anak-anaknya terlebih dahulu sebelum ke node induk.
