@@ -632,13 +632,10 @@ int main() {
 ### Output Unguided 1 :
 
 ##### Output 1
-![Screenshot Output Unguided 1_1](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
-
-contoh :
-![Screenshot Output Unguided 1_1](https://github.com/DhimazHafizh/2311102151_Muhammad-Dhimas-Hafizh-Fathurrahman/blob/main/Pertemuan1_Modul1/Output-Unguided1-1.png)
+![Output Unguided 1_1](https://github.com/ahmadrubai/103112400074_Ahmad-Ruba-i/blob/main/week%2013/103112400074_Ahmad%20Ruba'i/Output%20Unguided%201_1.png)
 
 ##### Output 2
-![Screenshot Output Unguided 1_2](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+![Output Unguided 1_2](https://github.com/ahmadrubai/103112400074_Ahmad-Ruba-i/blob/main/week%2013/103112400074_Ahmad%20Ruba'i/Output%20Unguided%201_2.png)
 
 Program ini menggunakan Multi Linked List (MLL) dengan struktur double linked list pada parent dan child untuk menyimpan data golongan hewan dan data hewannya. Setiap parent menyimpan ID dan nama golongan serta memiliki daftar child yang berisi detail hewan, seperti ID, nama, habitat, ekor, dan bobot. Program menyediakan fungsi untuk inisialisasi list, alokasi dan penghapusan node, serta operasi penyisipan dan penghapusan pada parent dan child. 
 
@@ -986,13 +983,7 @@ int main() {
 ### Output Unguided 2 :
 
 ##### Output 1
-![Screenshot Output Unguided 2_1](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
-
-contoh :
-![Screenshot Output Unguided 2_1](https://github.com/DhimazHafizh/2311102151_Muhammad-Dhimas-Hafizh-Fathurrahman/blob/main/Pertemuan1_Modul1/Output-Unguided2-1.png)
-
-##### Output 2
-![Screenshot Output Unguided 2_2](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+![Output Unguided 2](https://github.com/ahmadrubai/103112400074_Ahmad-Ruba-i/blob/main/week%2013/103112400074_Ahmad%20Ruba'i/Output%20Unguided%202.png)
 
 Program ini menerapkan Multi Linked List dengan struktur double linked list pada parent dan child untuk mengelola data golongan hewan beserta data hewannya. Setiap node parent menyimpan informasi golongan dan memiliki daftar child yang berisi detail hewan. Program menyediakan operasi pembuatan, penambahan, penghapusan, penampilan data, serta pencarian hewan berdasarkan ada atau tidaknya ekor melalui fungsi searchHewanByEkor.
 
@@ -1352,13 +1343,10 @@ int main() {
 ### Output Unguided 3 :
 
 ##### Output 1
-![Screenshot Output Unguided 3_1](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
-
-contoh :
-![Screenshot Output Unguided 3_1](https://github.com/DhimazHafizh/2311102151_Muhammad-Dhimas-Hafizh-Fathurrahman/blob/main/Pertemuan1_Modul1/Output-Unguided3-1.png)
+![Output Unguided 3_1](https://github.com/ahmadrubai/103112400074_Ahmad-Ruba-i/blob/main/week%2013/103112400074_Ahmad%20Ruba'i/Output%20Unguided%203_1.png)
 
 ##### Output 2
-![Screenshot Output Unguided 3_2](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+![Output Unguided 3_2](https://github.com/ahmadrubai/103112400074_Ahmad-Ruba-i/blob/main/week%2013/103112400074_Ahmad%20Ruba'i/Output%20Unguided%203_2.png)
 
 Program ini menggunakan Multi Linked List dengan struktur double linked list pada bagian parent dan child untuk mengelola data golongan hewan dan hewan di dalamnya. Setiap node parent menyimpan data golongan serta memiliki daftar child yang memuat informasi detail hewan. Program menyediakan operasi pembuatan list, penambahan dan penghapusan node parent maupun child, termasuk penghapusan seluruh data child secara otomatis ketika node parent dihapus.
 
