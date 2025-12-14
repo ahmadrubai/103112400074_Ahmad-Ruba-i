@@ -1,4 +1,4 @@
-# <h1 align="center">Laporan Praktikum Modul 11 - Multi Linked List(Bagian Pertama)</h1>
+# <h1 align="center">Laporan Praktikum Modul 13 - Multi Linked List(Bagian Pertama)</h1>
 <p align="center">Ahmad Ruba'i - 103112400074</p>
 
 ## Dasar Teori
