@@ -316,13 +316,7 @@ int main() {
 ### Output Unguided 1 :
 
 ##### Output 1
-![Screenshot Output Unguided 1_1](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
-
-contoh :
-![Screenshot Output Unguided 1_1](https://github.com/DhimazHafizh/2311102151_Muhammad-Dhimas-Hafizh-Fathurrahman/blob/main/Pertemuan1_Modul1/Output-Unguided1-1.png)
-
-##### Output 2
-![Screenshot Output Unguided 1_2](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+![Screenshot Output Unguided 1](https://github.com/ahmadrubai/103112400074_Ahmad-Ruba-i/blob/main/week%2014/103112400074_Ahmad%20Ruba'i/Output%20Unguided%201.png)
 
 Program ini mengimplementasikan ADT Graph tidak berarah menggunakan representasi Adjacency List menggunakan pointer dinamis. Struktur ElmNode sebagai simpul dan ElmEdge sebagai busur, program dapat menambah simpul, menghubungkan dua simpul secara timbal balik (dua arah), serta menampilkan daftar ketetanggaan setiap simpul untuk memverifikasi hubungan antar data yang telah dibangun.
 
@@ -481,13 +475,8 @@ int main() {
 ### Output Unguided 2 :
 
 ##### Output 1
-![Screenshot Output Unguided 2_1](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+![Screenshot Output Unguided 2](https://github.com/ahmadrubai/103112400074_Ahmad-Ruba-i/blob/main/week%2014/103112400074_Ahmad%20Ruba'i/Output%20Unguided%202.png)
 
-contoh :
-![Screenshot Output Unguided 2_1](https://github.com/DhimazHafizh/2311102151_Muhammad-Dhimas-Hafizh-Fathurrahman/blob/main/Pertemuan1_Modul1/Output-Unguided2-1.png)
-
-##### Output 2
-![Screenshot Output Unguided 2_2](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
 
 Program ini mengimplementasikan ADT Graf tidak berarah menggunakan representasi Adjacency List menggunakan pointer dinamis. Program mendukung penyisipan simpul dan pembentukan hubungan timbal balik, selain itu program ini juga menyertakan algoritma Depth First Search (DFS) untuk menelusuri simpul secara rekursif, serta fungsi untuk mereset status kunjungan simpul guna memastikan akurasi hasil penelusuran.
 
@@ -677,7 +666,7 @@ int main() {
 ### Output Unguided 3 :
 
 ##### Output 1
-![Screenshot Output Unguided 3_1](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+![Screenshot Output Unguided 3](https://github.com/ahmadrubai/103112400074_Ahmad-Ruba-i/blob/main/week%2014/103112400074_Ahmad%20Ruba'i/Output%20Unguided%203.png)
 
 Program ini mengimplementasikan ADT Graf tidak berarah secara lengkap menggunakan representasi Adjacency List menggunakan pointer dinamis. Selain operasi dasar seperti penyisipan simpul dan pembentukan hubungan timbal balik, program ini menyertakan dua algoritma penelusuran utama yaitu: DFS yang bekerja secara rekursif untuk menjelajahi kedalaman graf dan BFS yang memanfaatkan antrean (queue) untuk menjelajahi graf berdasarkan level.
 
